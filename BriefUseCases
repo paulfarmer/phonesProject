@@ -145,7 +145,7 @@ Phone Delivery
 
 
 Phone Insurance
--<h2> Primary Actor </h2? : Customer
+-<h2> Primary Actor </h2> : Customer
 -Customer just lost his phone
 -Customer contacts CustomerService by email or rings through friends phone
 -Customer vervies security questions to a member of staff.
@@ -154,4 +154,4 @@ Phone Insurance
 -Staff member confirms Customers address.
 -Customer's replacment phone is sent to address on account
 -Phone to be delivered 24 hours from when request was put in
--
+
