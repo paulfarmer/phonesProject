@@ -135,3 +135,23 @@ Alternate Scenarios
 •	Mary is asked to review it via social media
 
 
+Phone Delivery
+-Cutomer has just bought phone
+-Customer chooses the delivery checkbox
+-Customer validates that his correct address is on account
+-System notifies Customer that the product will be delivered in one day.
+-Customer agrees to terms and conditons of delivery
+-Customer recieves package next day by Courier
+
+
+Phone Insurance
+-<h2> Primary Actor </h2? : Customer
+-Customer just lost his phone
+-Customer contacts CustomerService by email or rings through friends phone
+-Customer vervies security questions to a member of staff.
+-Staff member shuts down old phone for future use
+-Staff member confirms Customers insurance is up to date
+-Staff member confirms Customers address.
+-Customer's replacment phone is sent to address on account
+-Phone to be delivered 24 hours from when request was put in
+-
