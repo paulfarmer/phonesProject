@@ -5,6 +5,14 @@ Customer service Phone
 Customer service Online
 Surveys
 
+PhoneSpec Use Case 1.1: Create Account
+The user creates a new account by visiting the website, clicking on the Sign up button and providing their information. 
+PhoneSpec Use Case 1.2 : Log on
+The user logs onto their account by providing their username and password. If the user has forgotten either there is a process which they can go through to set a new one.
+PhoneSpec Use Case 1.3 Log off
+The user logs off by clicking on the Log Off link.
+
+
 Success
 Buying Phones Online
 1 Mary turns on her device that is connected to the internet.
@@ -145,7 +153,8 @@ Phone Delivery
 
 
 Phone Insurance
--<h2> Primary Actor </h2> : Customer
+ Primary Actor : Customer
+ Level:User Goal
 -Customer just lost his phone
 -Customer contacts CustomerService by email or rings through friends phone
 -Customer vervies security questions to a member of staff.
@@ -154,4 +163,26 @@ Phone Insurance
 -Staff member confirms Customers address.
 -Customer's replacment phone is sent to address on account
 -Phone to be delivered 24 hours from when request was put in
+
+Promotion
+Primary Actor:Customer
+Level:User Goal
+-Customer wants to find out about latest deals.
+-Customer looks up PhoneSpec On Social Media
+-Customer likes or follows PhoneSpec page
+-Customer is notified of daily promotions
+-Customer is enticed to avail of these offers.
+-Customer buys something he likes from viewing the Social media posts
+
+
+Subscription-
+Primary Actor: Customer
+Level:User Goal
+
+-Customer wants to keep up to date with all latest deals
+-Customer logs onto account
+-Customer ticks check box to keep up to date with all latest deals
+-System puts account holders number into subscrption table in database
+-Weekly sms is sent to customer alerting new deals and promotions
+
 
