@@ -1,4 +1,4 @@
-Fully Dresssed Use Case exchange refund phone
+Fully Dressed Use Case exchange refund phone
 
 Fully Dressed Use Case: Refund/Exchange Product
 Primary Actor: Buyer
@@ -9,7 +9,7 @@ Stakeholders And Interests
 	Buyer: wants to replace an item online and an easy to replace item
 	Seller: wants to replace/refund any items brought by customers
 Pre-condition: must have valid warranty or receipt
-Minimal Guarantees: Order is sent out as requested, goods can be refunded/replaced with valid documentation
+Minimal Guarantees: Order is sent out if warranty valid as requested, goods can be refunded/replaced with valid documentation
 Success Guarantees: Buyer has correct documentation and is able to request process
 Trigger: Buyer requests a refund/replacement of item
 Main Success Scenario:
