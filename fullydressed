@@ -1,0 +1,37 @@
+Fully Dresssed Use Case exchange refund phone
+
+Fully Dressed Use Case: Refund/Exchange Product
+Primary Actor: Buyer
+Goal In Context: Buyer purchases something through the system, gets it. Wants to replace it if unsatisfied
+Scope: 
+Level: Summary
+Stakeholders And Interests
+	Buyer: wants to replace an item online and an easy to replace item
+	Seller: wants to replace/refund any items brought by customers
+Pre-condition: must have valid warranty or receipt
+Minimal Guarantees: Order is sent out as requested, goods can be refunded/replaced with valid documentation
+Success Guarantees: Buyer has correct documentation and is able to request process
+Trigger: Buyer requests a refund/replacement of item
+Main Success Scenario:
+1.	Buyer: Initiates a request to refund am item
+2.	Seller: validates request by checking current refund/exchange documentation, checks availability of products, completes request for submission (should there be an approver instead of actor here ?), seller checks to see if buyer request in stock
+3.	Buyer receives goods if seller approves documentation
+4.	Seller updates system and updates warranty, request complete
+
+Extensions
+Buyer does not have warranty documentation but the returning item is still in warranty
+Seller does not know if the returning item is still in valid warranty, leave it blank and wait for buyer to fill in details
+Buyer completes the warranty details
+Seller checks the system for any previous record of this item sold, sellers informs buyer if approved
+Buyer receives new phone if approved
+
+
+
+Technology and Data Variations List:
+Priority: Various
+Releases: Several
+Response Time: Same Day
+Frequency Of Use: All Day Every Day
+Channel To Primary Actor: Internet Browser, mail system, phone
+Channels To Secondary Actors: fax, phone, car, email
+Open Issues:
